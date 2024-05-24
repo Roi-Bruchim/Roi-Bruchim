@@ -31,7 +31,6 @@
 
 <h3 align="left">LeetCode Status:</h3>
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/Roi_Bruchim?theme=unicorn" alt="Roi_Bruchim LeetCode Stats" />
   <img src="https://leetcard.jacoblin.cool/Roi_Bruchim?theme=light,unicorn" alt="Roi_Bruchim LeetCode Stats" />
 </p>
 
